@@ -44,7 +44,7 @@ Save the final data set into the file.
 
 PROGRAM:
 ```
-Developed by : JEEVA GOWYHAM S
+Developed by : JEEVA GOWTHAM S
 Registration Number :212222230053
 ```
 ```
